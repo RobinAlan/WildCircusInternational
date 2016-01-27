@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<style>
+#fond{
+position: relative;
+width: 40%;
+float: left; 30px;
+margin-left: 560px;
+margin-right: 30px;
+padding: 5px;
+background-color: #E02211;
+color: #B3B3B3;
+border: 2px solid white;
+margin-bottom: 40px;
+margin-top:380px;
+}
+ body {
+  font-family: helvetica, sans-serif;
+  margin: 0 auto;
+  background: #1F2396;
+  background: url('http://www.cssauthor.com/wp-content/uploads/2013/10/circus-tent-background.jpg');
+}
+.imageflottante{
+float: right;
+}
+</style>
+<div id="fond">
+   <a href="https://youtu.be/59rxk41yGmE" title="" TARGET="_BLANCK">
+   <img src="http://www.amicale19ussel.com/wp-content/uploads/2011/06/Jongleurs.jpg" border= "0px" width="200" class="imageflottante"></A>
+   Be captivated by our troop juggler :<br />
+   Shay and are Team has over 10 years of experience in the fire show, which allowed him to "ignite" the biggest national events. His shows draw their power and spirituality in Asian culture, the original birthplace of Shay, in which fire plays an essential role. With its fire shows, Shay and offers full of warmth and originality numbers, by the energy that the artist emerges in addition to his charismatic personality.
+Shay offers different types of shows, all rich in visual and emotional, through their unique creations flame sources (flame throwers, fire wheel, trident ...) that the artist uses in large numbers.
+
+Another plus for this artist of the fire: the staging and the development of the decorations were treated, thereby further enhancing his talents. And his shows are played indoors or outdoors.
+            
+</div>
+
+ <head>
+  <title>Juggler<:/title>
+ </head>
+
+ <body>
+
+  <h1></h1>
+  <p></p>
+  
+ </body>
+ 
+ </html>
