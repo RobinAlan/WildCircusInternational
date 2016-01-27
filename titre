@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<head>
+  <link href="/normalize.css" rel="stylesheet">
+  <style>
+    header {
+      text-align: center;
+      background: url('http://hdwallpapersfit.com/wp-content/uploads/2015/03/magician-wallpaper.jpg');
+      background-size: cover;
+      color: #CED8F6;
+    }
+	body {
+  font-family: helvetica, sans-serif;
+  margin: 0 auto;
+  background: #1F2396;
+}
+    a {
+      color: #CED8F6;
+	  text-decoration: none;
+    }
+    h1 {
+      font-size: 70px;
+    }
+    img {
+      margin: 40px 400px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
+    ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    article {
+      max-width: 500px;
+	  
+      padding: 20px;
+      margin: 0 auto;
+    }
+    @media (max-width: 500px) {
+      h1 {
+        font-size: 36px;
+        padding: 5px;
+      }
+      li {
+        padding: 5px;
+        display: block;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://www.myflashstore.net/images/avatar/thumb_cbe6b69f8e9fce50bcf381ce.jpg">
+    <h1>Wild Circus International</h1>
+    <ul>
+      <li><a href="file:///C:/Users/Administrateur/Desktop/Magician.html">Magician</a></li>
+      <li><a href="file:///C:/Users/Administrateur/Desktop/Lion%20Tamer.html">Lion Tamer</a></li>
+	  <li><a href="file:///C:/Users/Administrateur/Desktop/Juggler.html">Juggler</a></li>
+    </ul>
+  </header>
+  <article>
+    <h2>An unprecedented number magician</h2>
+    <p>Note amazing magician will offer theunique tours.Disappearance,amazing card tricks and many other surprises await you !.</p>
+   
+  </article>
+  <article>
+    <h2>Survive the release of lion in the marquee</h2>
+    <p>Are you ready for an incredible race for survival ? All means will be at your disposal to survive, are you ready to lose a loved ? You'il know it when coming face our incredible show !.</p>
+    
+  </article>
+  <article>
+    <h2>Be captivated by our troop juggler</h2>
+    <p>Note juggler troupe will make you dream with the high-flying round.</p>
+  </article>
+  
+  <script>
+    $("button").on("click", function() {
+      alert("Clicked!");
+    });
+  </script>
+</body>
