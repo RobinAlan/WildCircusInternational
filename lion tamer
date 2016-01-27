@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<style>
+#fond{
+position: relative;
+width: 40%;
+float: left; 30px;
+margin-left: 510px;
+margin-right: 30px;
+padding: 5px;
+background-color: #FC6406;
+color: #22130A;
+border: 2px solid white;
+margin-bottom: 40px;
+margin-top:180px;
+}
+ body {
+  font-family: helvetica, sans-serif;
+  margin: 0 auto;
+  background: #1F2396;
+  background: url('http://www.mediatechpro.com/free-backgrounds/free-website-background.jpg');
+}
+.imageflottante{
+float: right;
+}
+</style>
+<div id="fond">
+   <a href="https://youtu.be/7eAHP-WOdpI" title="" TARGET="_BLANCK">
+   <img src="http://media.meltybuzz.fr/article-1289800-fb/lion-dresseur-ukraine-spectacle-cirque.jpg" border= "0px" width="200" class="imageflottante"></A>
+   Survive the release of lion in the marquee :<br />
+    The show starts with an educational film that is broadcast on a screen forty three meters. Then the voice of the narrator gives way to one man among nine lions (7 classic white lions lions and 2): a beautiful smooth dressage demonstration intended to highlight the animal, his beauty, his physical abilities. Some sequences, rarely attempted with lions, demonstrate a real complicity with the trainer. 2nd part of the show, the lions will be directly in the marquee frees you!          
+</div>
+
+ <head>
+  <title>Lion Tamer<:/title>
+ </head>
+
+ <body>
+
+  <h1>An unprecedented number magician</h1>
+  <p></p>
+  
+ </body>
+ 
+ </html>
